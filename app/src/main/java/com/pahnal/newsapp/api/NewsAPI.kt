@@ -1,6 +1,6 @@
 package com.pahnal.newsapp.api
 
-import com.pahnal.newsapp.NewsResponse
+import com.pahnal.newsapp.models.NewsResponse
 import com.pahnal.newsapp.utils.Constants.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET

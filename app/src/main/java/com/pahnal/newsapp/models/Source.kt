@@ -1,4 +1,4 @@
-package com.pahnal.newsapp
+package com.pahnal.newsapp.models
 
 data class Source(
     val id: String,

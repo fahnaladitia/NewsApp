@@ -2,7 +2,7 @@ package com.pahnal.newsapp.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.pahnal.newsapp.Article
+import com.pahnal.newsapp.models.Article
 
 @Dao
 interface ArticleDao {

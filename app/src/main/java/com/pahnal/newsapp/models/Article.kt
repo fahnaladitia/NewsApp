@@ -1,4 +1,4 @@
-package com.pahnal.newsapp
+package com.pahnal.newsapp.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
