@@ -43,5 +43,9 @@
     <fragment
         android:id="@+id/articleFragment"
         android:name="com.pahnal.newsapp.ui.fragment.ArticleFragment"
-        android:label="ArticleFragment" />
+        android:label="ArticleFragment" >
+        <argument
+            android:name="article"
+            app:argType="com.pahnal.newsapp.models.Article" />
+    </fragment>
 </navigation>
